@@ -1,0 +1,10 @@
+package pattern; //inverted and upright pyramid
+import java.util.Scanner;
+public class Pattern19 {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner (System.in);
+		System.out.println("Enter the number");
+        int n = scan.nextInt();
+       
+ 
